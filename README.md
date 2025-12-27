@@ -1,4 +1,38 @@
+# Image Gallery Web Project
 
+This is a simple and responsive Image Gallery web application created using 
+HTML, CSS, and JavaScript. The project allows users to view images in a clean 
+grid layout and open them in a lightbox with navigation controls.
+
+This project was developed as part of **Task 1** of the **CodeAlpha Frontend Development Internship**.
+
+---
+
+## What this project does
+
+- Displays images in a responsive grid layout  
+- Adds hover effects for better user interaction  
+- Opens images in a lightbox when clicked  
+- Allows navigation using next and previous buttons  
+- Adjusts smoothly for different screen sizes  
+
+---
+
+## Tools and Technologies
+
+- **HTML** – Page structure  
+- **CSS** – Styling, layout, hover effects, responsiveness  
+- **JavaScript** – Lightbox functionality and image navigation  
+
+---
+
+## Folder Structure
+
+CodeAlpha_ImageGallery
+│
+├── index.html 
+├── style.css 
+└── script.js
 ---
 
 ## How to use the project
