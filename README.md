@@ -1,70 +1,39 @@
-# 📸 Image Gallery
-
-A responsive image gallery built using **HTML, CSS, and JavaScript** with hover effects and a lightbox view.  
-This project was developed as **Task 1** of the **CodeAlpha Frontend Development Internship**.
 
 ---
 
-## 🚀 Features
+## How to use the project
 
-- Responsive grid-based image gallery  
-- Hover effects with smooth transitions  
-- Lightbox view on image click  
-- Next / Previous navigation buttons  
-- Clean and user-friendly interface  
-- Works on desktop, tablet, and mobile devices  
+1. Clone or download this repository  
+2. Open the `index.html` file in a web browser  
+3. Click on any image to view it in full screen  
+4. Use the navigation buttons to switch images  
 
----
-
-## 🛠️ Technologies Used
-
-- **HTML5** – Structure of the gallery  
-- **CSS3** – Styling, layout, transitions, responsiveness  
-- **JavaScript** – Lightbox functionality and image navigation  
+No additional setup is required.
 
 ---
 
-## 📂 Project Structure
+## What I learned
 
-CodeAlpha_ImageGallery
-│
-├── index.html
-├── style.css
-└── script.js
-
+- Creating responsive layouts using CSS Grid  
+- Adding interactive features using JavaScript  
+- Handling DOM elements and user events  
+- Improving UI with hover effects and transitions  
 
 ---
 
-## ▶️ How to Run the Project
+## Internship Information
 
-1. Download or clone the repository  
-2. Open the `index.html` file in any web browser  
-3. Click on images to view them in lightbox mode  
-4. Use next (❯) and previous (❮) buttons to navigate  
-
----
-
-## 🎯 Learning Outcomes
-
-- Improved understanding of responsive layouts  
-- Hands-on experience with JavaScript DOM manipulation  
-- Better knowledge of CSS transitions and hover effects  
-- Practical implementation of a lightbox gallery  
-
----
-
-## 📌 Internship Details
-
-- **Internship:** CodeAlpha Frontend Development Internship  
-- **Task:** Image Gallery  
+- **Program:** Frontend Development Internship  
 - **Organization:** CodeAlpha  
+- **Task Completed:** Image Gallery  
 
 ---
 
-## 🙌 Acknowledgement
+## Author
 
-Thanks to **CodeAlpha** for providing this opportunity to enhance my front-end development skills through real-world tasks.
+**Dhanalakshmi S**  
+Frontend Development Intern  
 
 ---
 
-⭐ If you like this project, feel free to give it a star!
+Thank you **CodeAlpha** for providing this opportunity to learn and practice front-end development.
