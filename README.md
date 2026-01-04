@@ -32,7 +32,8 @@ CodeAlpha_ImageGallery
 │
 ├── index.html 
 ├── style.css 
-└── script.js
+└── script.js  
+
 ---
 
 ## How to use the project
@@ -40,7 +41,7 @@ CodeAlpha_ImageGallery
 1. Clone or download this repository  
 2. Open the `index.html` file in a web browser  
 3. Click on any image to view it in full screen  
-4. Use the navigation buttons to switch images  
+4. Use the navigation buttons to switch images
 
 No additional setup is required.
 
